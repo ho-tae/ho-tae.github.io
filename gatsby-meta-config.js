@@ -20,7 +20,7 @@ module.exports = {
   bio: {
     language: `ko`, // 'en', 'ko'
     name: '정진혁',
-    description: ['사람에 가치를 두는', '주체적으로 일하는', '이로운 것을 만드는'],
+    description: ['사람에 가치를 두는', '능동적으로 일하는', '이로운 것을 만드는'],
   },
 
   // metadata for About Page
